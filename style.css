@@ -1,0 +1,75 @@
+html, body {
+
+margin: 0px;
+padding: 0px;
+background-color: #000000;
+
+}
+
+
+header {
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+.pokemon {
+
+background-color: #000000;
+justify-content: space-evenly;
+
+}
+
+.ligne1 {
+
+display: flex;
+justify-content: space-evenly;
+
+
+
+}
+
+
+.ligne2 {
+
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+    
+    }
+
+
+.ligne3 {
+
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 2%;
+
+    }
+
+
+
+    .test {
+
+     
+    background:#000000;
+
+    }
+    .test img{
+     opacity:0.2;
+    -moz-transition: opacity 0.9s;
+    -webkit-transition: opacity 0.9s;
+    -o-transition: opacity 0.9s;
+     }
+   
+     .test img:hover{
+     opacity:1;
+     -moz-transition: opacity 0.7s;
+     -webkit-transition: opacity 0.7s;
+     -o-transition: opacity 0.7s;
+
+    }
+    
